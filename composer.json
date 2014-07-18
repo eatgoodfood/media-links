@@ -1,0 +1,19 @@
+{
+  "name": "egfg/media-links",
+  "description": "WordPress Plugin to add custom post type for media links",
+  "keywords": ["wordpress", "plugin", "egfg"],
+  "homepage": "http://eatgoodfoodgroup.com",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Stephen Chapman",
+      "email": "stephen@restauranteve.com",
+      "homepage": "http://www.stephen-chapman.com"
+    }
+  ],
+  "type": "wordpress-plugin",
+  "require": {
+    "php": ">=5.3.2",
+    "composer/installers": "v1.0.6"
+  }
+}
