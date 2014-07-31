@@ -3,7 +3,7 @@
    Plugin Name: Media Links Custom Post Type
    Plugin URI: http://stephen-chapman.com
    Description: A plugin to add a custom post type for media links
-   Version: 0.1
+   Version: 0.2
    Author: Stephen Chapman
    Author URI: http://stephen-chapman.com
    License: GPL2
@@ -35,7 +35,7 @@
             'menu_position' => 15,
             'supports' => array( 'title', 'editor', 'thumbnail'),
             'taxonomies' => array( '' ),
-            'menu_icon' => plugins_url( 'images/image.png', __FILE__ ), // 16x16 pixel image
+            'menu_icon' => 'dashicons-media-document', // 16x16 pixel image
             'has_archive' => true,
             'rewrite' => array('slug' => 'glimmer')
         )
