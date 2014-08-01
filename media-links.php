@@ -1,6 +1,6 @@
 <?php
    /*
-   Plugin Name: Media Links Custom Post Type
+   Plugin Name: Media Links
    Plugin URI: http://stephen-chapman.com
    Description: A plugin to add a custom post type for media links
    Version: 0.2
